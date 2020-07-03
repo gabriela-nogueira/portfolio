@@ -7,7 +7,7 @@ Informações, tutoriais e artigos, você pode encontrar no meu blog.
 
 ## Projetos
 
- - 
+ - **[Analisando dados do Airbnb da cidade de Berlim, Alemanha](https://github.com/gabriela-nogueira/analise-airbnb-berlim)**  
 
 ## Sobre mim
 
