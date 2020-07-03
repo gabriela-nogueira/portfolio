@@ -8,7 +8,7 @@ Informações, tutoriais e artigos, você pode encontrar no meu blog.
 ## Projetos
 &nbsp;&nbsp;&nbsp;&nbsp; <h3>Análises de Dados</h3>  
  - **[Analisando dados do Airbnb da cidade de Berlim, Alemanha](https://github.com/gabriela-nogueira/analise-airbnb-berlim)**  
-&nbsp;&nbsp;&nbsp;&nbsp; <h3>Aplicação de Machine Learning<h3>
+&nbsp;&nbsp;&nbsp; <h3>Aplicação de Machine Learning<h3>
 -
 
 ## Sobre mim
