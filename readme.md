@@ -6,9 +6,12 @@ Olá, meu nome é **Gabriela Nogueira**, sou estudante de **Engenharia da Comput
 Informações, tutoriais e artigos, você pode encontrar no meu blog.
 
 ## Projetos
-<h3>    Análises de Dados</h3>  
+<h3>Análises de Dados</h3>  
+
  - **[Analisando dados do Airbnb da cidade de Berlim, Alemanha](https://github.com/gabriela-nogueira/analise-airbnb-berlim)**  
-<h3>    Aplicação de Machine Learning<h3>
+ 
+<h3>Aplicação de Machine Learning<h3>
+ 
 -
 
 ## Sobre mim
