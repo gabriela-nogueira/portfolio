@@ -11,7 +11,7 @@ Informações, tutoriais e artigos, você pode encontrar no meu blog.
  - **[Analisando dados do Airbnb da cidade de Berlim, Alemanha](https://github.com/gabriela-nogueira/analise-airbnb-berlim)**  
  
 <h3>Aplicação de Machine Learning<h3>
- 
+
 - **[Kaggle Competition | Titanic: Machine Learning from Disaster](https://github.com/gabriela-nogueira/ml-titanic-competition)**
 
 ## Sobre mim
